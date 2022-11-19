@@ -1,4 +1,4 @@
-# trabajos de clase  de periodismo de datos II, Herramientas digitales para la presentación y visualización de datos
+# trabajos de clase  de periodismo de datos II, Herramientas digitales para la presentación y visualización de dato II
 
 Actividades dirigidas y Trabajo Final
 
@@ -6,4 +6,4 @@ Actividades dirigidas y Trabajo Final
 -	[AD2](ad2.md)
 -	[AD3](ad3.md)
 -	[AD4](ad4.md)
--	[Trabajo final] (trabajo-final.md)
+-	[Trabajo final](trabajo -final.md)
