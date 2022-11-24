@@ -1,4 +1,4 @@
-# trabajos de clase  de periodismo de datos II, Herramientas digitales para la presentación y visualización de dato II
+# Trabajos de clase  de periodismo de datos II, Herramientas digitales para la presentación y visualización de dato II
 
 Actividades dirigidas y Trabajo Final
 
