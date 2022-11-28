@@ -1,5 +1,5 @@
 # Ejercicio con Python para lograr un scraping de una web
-
+Aquí el archivo python  [aqui el archivo python](documentos/Ad3_TrejosPossoAngélica.ipynb)
 # Iniciamos con el ejercicio de programación literaria, lo primero es importar las librerías y módulos necesarios para el desarrollo de la actividad.
 
 ## Código fuente:
