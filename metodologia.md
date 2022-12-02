@@ -1,8 +1,8 @@
-#Metodología
+# Metodología
 
 
 
-##Periodísmo de Datos II: Herramientas Digitales para la Visualización y Presentación de Datos
+## Periodísmo de Datos II: Herramientas Digitales para la Visualización y Presentación de Datos
 por:Angélica Trejos
 
 En el siguiente documento presentaré la metodología de las actividades dirigidas realizadas durante el módulo que me permitieron conocer las herramientas para la escritura, introducción de cógido, herramientas y posibilidades en el mundo digital para seguir contando historias periodísticas de una manera diferente.
@@ -11,7 +11,7 @@ Vislumbrar lenguajes como Python y Markdown me permitieron abrir la mente para p
 Particularmente me siento "ganadora" con todo lo visto y aprendido, si bien, fue corto el tiempo que establece la universidad para adquirir este conocimiento, no son pocas las posibilidades para seguir en este camino de las herramientas para la visualización y presentación de datos.
 
 
-###*Actividad dirigida 1: Lenguaje Markdown
+### *Actividad dirigida 1: Lenguaje Markdown
 
 Tras recibir la tutoria sobre el lenguaje Markdown ya supe que esta materia sería desafiante, implicaba para aprehender.
 La actividad consistió en hacer un comentario crítico sobre una pieza de periodismo de datos, visualización de datos o infografía. 
@@ -19,7 +19,7 @@ Aquí aprendí sobre este lenguaje y el uso de almohadillas # para hacer encabez
 
 Una vez en Github, cree un [repositorio ](README.md) dónde se pueden observar todas las actividades, modificaciones, ingresos que se realizaron.
 
-###*Actividad dirigida 2:Prácticas de Markdown
+### *Actividad dirigida 2:Prácticas de Markdown
 
 Esta actividad fue un complemento a la actividad 1, lo que permitió adentrarnos mucho más a este lenguaje y conocer sobre los diferentes elementos para su escritura, se incluyó también el texto en Github con un una mayor cantidad de palabras 
 para lo cual tomé como referencia la siguiente nota: [nota periodistica](https://www.eltiempo.com/datos/mundial-qatar-2022-datos-curiosos-de-la-copa-mundo-de-la-fifa-711095). 
