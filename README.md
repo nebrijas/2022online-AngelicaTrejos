@@ -6,4 +6,4 @@ Actividades dirigidas y Trabajo Final
 -	[ad2](ad2.md)
 -	[ad3](ad3.md)
 -	[ad4](ad4.md)
--	[Trabajo final](trabajo-final.md)
+-	[Metodologia](metodologia.md)
