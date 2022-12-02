@@ -1,5 +1,5 @@
 #**Uso de la Api del covid-19 con Pandas
-
+[docu jupiter](documentos/Ad4_TrejosPossoAngelica.ipynb)
 En esta práctica usaremos la api Covid-19 con pandas, una librería de python que nos ayudará a leer y entender de una mejor forma la información de la api. La url será https://api.covid19api.com/countries
 
 ## 1. Instalacion de las librerías con la función !pip. La exclamación es para que se ejecute blash.
