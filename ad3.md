@@ -1,5 +1,5 @@
 # Ejercicio con Python para lograr un scraping de una web
-Aquí el ejercicio en Python [EjercicioPython](ad3.md)
+Aquí el ejercicio en Python [EjercicioPython](https://github.com/nebrijas/2022online-AngelicaTrejos/blob/990e3f93538d24f05902d167d26660761ebffca0/docs/Ad3.ipynb)
 
 Iniciamos con el ejercicio de programacion literaria con Python para lograr un scraping de una web, este ejercicio es importante puesto que las paginas web son constantemente modificadas y actualizadas, sus contenidos cambian con el tiempo, puede que cambie su diseño, por ejemplo, o que se les añadan nuevos elementos. Los web scrapers (programa el cual tiene como finalidad extraer información de sitios web) se desarrollan teniendo en cuenta la estructura específica de una página web, de forma que, si dicha estructura cambia, el scraper también debe modificarse. Este proceso resulta especialmente sencillo con Python.
 
